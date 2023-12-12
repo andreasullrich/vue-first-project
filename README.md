@@ -27,10 +27,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Task2:  Add a reset.css file
 
-## We need to normalize some styling
+### We need to normalize some styling
 
-## Remove all styles from existing files.
+### Remove all styles from existing files.
 
-## Add the src/reset.css css styles to the application
+### Add the src/reset.css css styles to the application
 
-## Use one of the techniques you learned before
+### Use one of the techniques you learned before
