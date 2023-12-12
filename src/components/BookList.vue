@@ -1,6 +1,6 @@
 <template>
   <section class="table-item">
-    <h2 class="table-item__hl">All Books</h2>
+    <h2 class="table-item__hl">All Bookz</h2>
     <table class="table-item__table">
       <thead>
         <tr>
